@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PDFMaster:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PDFMaster_jar</output-path>
+    <root id="archive" name="PDFMaster.jar">
+      <element id="module-output" name="PDFMaster" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/pdfbox-app-3.0.0-alpha2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
